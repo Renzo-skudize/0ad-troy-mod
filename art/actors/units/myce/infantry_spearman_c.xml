@@ -76,5 +76,4 @@
     <variant file="biped/formations/phalanx_mid.xml"/>
     <variant file="biped/formations/phalanx_back.xml"/>
   </group>
-  <material>player_trans_norm_spec.xml</material>
 </actor>
