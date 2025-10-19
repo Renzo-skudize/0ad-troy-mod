@@ -21,6 +21,7 @@
     <Civ>myce</Civ>
     <SpecificName>Polemikó ploío Ithákis</SpecificName>
     <Icon>units/hele/ship_arrow.png</Icon>
+    <Phenotype disable=""/>
   </Identity>
   <ProductionQueue/>
   <Trainer>
