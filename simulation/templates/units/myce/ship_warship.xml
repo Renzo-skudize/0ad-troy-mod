@@ -33,6 +33,7 @@
       <Entity>structures/myce/tent</Entity>
       <Tooltip>Upgrade your ship to a tent.</Tooltip>
       <Time>10</Time>
+      <CheckPlacementRestrictions/>
     </Tent>
   </Upgrade>
   <VisualActor>
