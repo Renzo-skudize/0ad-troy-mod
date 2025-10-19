@@ -38,11 +38,6 @@
     <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
     <GarrisonArrowClasses>Soldier</GarrisonArrowClasses>
   </BuildingAI>
-  <BuildRestrictions>
-    <Territory>own ally neutral</Territory>
-    <PlacementType>shoredeep</PlacementType>
-    <Category>Dock</Category>
-  </BuildRestrictions>
   <GarrisonHolder>
     <Max>40</Max>
     <EjectHealth>0.1</EjectHealth>
